@@ -1,2 +1,2 @@
 schematics light-theremin.sch
-output-name board
+output-name light-theremin

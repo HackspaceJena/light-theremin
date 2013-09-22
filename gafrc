@@ -1,0 +1,9 @@
+;  -*-Scheme-*-
+;;; 
+;;; Project specific init file for gaf
+;;;
+
+; Add custom symbol library
+(component-library "./custom_symbols")
+
+
