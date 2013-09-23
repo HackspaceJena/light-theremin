@@ -26,7 +26,7 @@ refdes=C3
 T 50500 48000 5 10 0 0 0 0 1
 symversion=0.1
 T 50800 47800 5 10 1 1 0 0 1
-value=100µ
+value=100u
 T 50300 47300 5 10 0 0 0 0 1
 footprint=RCY100P
 }
@@ -39,7 +39,7 @@ refdes=C2
 T 48100 46600 5 10 0 0 90 0 1
 symversion=0.1
 T 48400 46600 5 10 1 1 0 0 1
-value=0.1µ
+value=0.1u
 T 49000 46400 5 10 0 1 0 0 1
 footprint=CK05_type_Capacitor
 }
@@ -52,7 +52,7 @@ refdes=C1
 T 46700 45700 5 10 0 0 0 0 1
 symversion=0.1
 T 47000 45300 5 10 1 1 0 0 1
-value=0.1µ
+value=0.1u
 T 46500 44800 5 10 0 1 0 0 1
 footprint=CK05_type_Capacitor
 }
@@ -137,8 +137,8 @@ T 45550 45700 5 10 0 0 90 0 1
 device=RESISTOR
 T 44700 45600 5 10 1 1 0 0 1
 refdes=LDR1
-T 44600 45400 5 10 1 1 0 0 1
-device=905014
+T 44100 45400 5 10 1 1 0 0 1
+device=905014 (tbc.)
 T 44500 45200 5 10 0 1 0 0 1
 footprint=ACY100
 }
@@ -148,8 +148,8 @@ T 49250 43900 5 10 0 0 90 0 1
 device=RESISTOR
 T 48400 43800 5 10 1 1 0 0 1
 refdes=LDR2
-T 48300 43600 5 10 1 1 0 0 1
-device=905014
+T 47800 43600 5 10 1 1 0 0 1
+device=905014 (tbc.)
 T 48300 43400 5 10 0 1 0 0 1
 footprint=ACY100
 }
@@ -279,7 +279,7 @@ symversion=0.1
 T 41400 46800 5 10 1 1 0 0 1
 value=9V
 T 41100 46600 5 10 0 1 0 0 1
-footprint=ACY1200
+footprint=ACY600
 }
 C 41900 45200 1 0 0 gnd-1.sym
 N 42000 48500 42000 47500 4
@@ -293,7 +293,7 @@ Light Theremin
 T 53900 40100 9 10 1 0 0 0 1
 Uwe Lippmann
 T 53900 40400 9 10 1 0 0 0 1
-2013-09-22
+2013-09-23
 T 51000 40100 9 10 1 0 0 0 1
 1
 T 51500 40100 9 10 1 0 0 0 1
