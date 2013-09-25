@@ -107,7 +107,7 @@ device=RESISTOR
 T 54700 46700 5 10 1 1 0 0 1
 refdes=R6
 T 54700 46500 5 10 1 1 0 0 1
-value=330
+value=220
 T 54600 46200 5 10 0 1 0 0 1
 footprint=R025
 }
@@ -118,7 +118,7 @@ device=RESISTOR
 T 53700 46700 5 10 1 1 0 0 1
 refdes=R5
 T 53700 46500 5 10 1 1 0 0 1
-value=330
+value=220
 T 53600 46200 5 10 0 1 0 0 1
 footprint=R025
 }
@@ -266,7 +266,7 @@ device=SPST
 T 42700 48800 5 10 1 1 0 0 1
 refdes=S1
 T 42400 48500 5 10 0 0 0 0 1
-footprint=switch-1
+footprint=switch-1.fpt
 }
 C 41800 47500 1 270 0 battery-3.sym
 {
@@ -278,8 +278,8 @@ T 42750 47200 5 10 0 0 270 0 1
 symversion=0.1
 T 41400 46800 5 10 1 1 0 0 1
 value=9V
-T 41100 46600 5 10 0 1 0 0 1
-footprint=ACY600
+T 41800 47500 5 10 0 1 0 0 1
+footprint=batt_cable.fpt
 }
 C 41900 45200 1 0 0 gnd-1.sym
 N 42000 48500 42000 47500 4
